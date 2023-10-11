@@ -11,6 +11,7 @@
 ![Postman](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman)
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=docker&logoColor=white)
 ![Celery](https://img.shields.io/badge/-Celery-090909?style=for-the-badge&logo=Celery)
+![Redis](https://img.shields.io/badge/-Redis-090909?style=for-the-badge&logo=Redis)
 
 ## Follow Me
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/artemxr)
