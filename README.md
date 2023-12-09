@@ -16,3 +16,6 @@
 ## Follow Me
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/artemxr)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/id62762957)
+
+## Skills
+![ArtemKhrapuzov leetcode stats](https://github.com/ArtemKhrapuzov/ArtemKhrapuzov/blob/main/assets/leetcode.jpg)
