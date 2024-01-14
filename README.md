@@ -19,3 +19,4 @@
 
 ## Skills
 ![ArtemKhrapuzov leetcode stats](https://github.com/ArtemKhrapuzov/ArtemKhrapuzov/blob/main/assets/leetcode.jpg)
+![ArtemKhrapuzov language stats](https://github.com/ArtemKhrapuzov/ArtemKhrapuzov/blob/main/assets/language.jpg)
