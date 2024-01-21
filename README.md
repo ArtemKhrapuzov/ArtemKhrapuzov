@@ -1,6 +1,6 @@
 ![header](https://github.com/ArtemKhrapuzov/ArtemKhrapuzov/blob/main/assets/header.png)
 
-## I'm a web developer
+## I'm a backend developer. Main stack Python, Java, SQL
 
 ## Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=47C5FB)
